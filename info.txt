@@ -1,2 +1,2 @@
 Only this file is present only in this branch.
-New line.
+Oh no! Something has changed!
